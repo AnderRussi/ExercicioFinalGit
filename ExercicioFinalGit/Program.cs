@@ -4,6 +4,7 @@
 int idade, sexo;
 
 //comandos de entrada e leitura de dados
+Console.WriteLine("Verificação para possivel alistamento militar: ");
 Console.WriteLine("Informe a idade da pessoa: ");
 idade = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("\nInforme o sexo da pessoa, sendo 1- Masculino 2-Feminino: ");
