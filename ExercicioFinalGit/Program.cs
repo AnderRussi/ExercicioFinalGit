@@ -24,6 +24,7 @@ if (idade >= 18)
     {
         //Bloco Falso
         Console.WriteLine("Você não se enquadra para alistamento militar");
+        Console.WriteLine("ME AJUDEM A CRESCER MINHA EMPRESA");
     }
 }
 else //se não
