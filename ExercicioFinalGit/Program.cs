@@ -31,4 +31,5 @@ else //se não
 {
     //Bloco falso
     Console.WriteLine("Você não tem idade suficiente para alistamento militar!");
+    Console.WriteLine("Boa sorte quando fizer 18 anos. :)");
 }
